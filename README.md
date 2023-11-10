@@ -6,7 +6,9 @@ Projeto feito no curso de 'JavaScript: consumindo e tratando dados de uma API' d
 
 ## Instruções
 
-Rodar o comando "npm run dev" (sem as aspas) para iniciar a fake api e abrir no navegador o arquivo "index.html".
+- Instalar o json-server, comando => "npm i json-server" (sem as aspas).
+
+- Rodar o comando "npm run dev" (sem as aspas) para iniciar a fake api e abrir no navegador o arquivo "index.html".
 
 ## Tecnologias
 
